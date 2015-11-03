@@ -1,0 +1,5 @@
+/Users/Sivan/Documents/Projects/FizzBuzzTDD/FizzBuzzTDD/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/Sivan/Documents/Projects/FizzBuzzTDD/FizzBuzzTDD/bin/Debug/FizzBuzzTDD.exe.mdb
+/Users/Sivan/Documents/Projects/FizzBuzzTDD/FizzBuzzTDD/bin/Debug/FizzBuzzTDD.exe
+/Users/Sivan/Documents/Projects/FizzBuzzTDD/FizzBuzzTDD/obj/x86/Debug/FizzBuzzTDD.exe
+/Users/Sivan/Documents/Projects/FizzBuzzTDD/FizzBuzzTDD/obj/x86/Debug/FizzBuzzTDD.exe.mdb
