@@ -1,1 +1,22 @@
-﻿<Properties StartupItem="FizzBuzzTDD/FizzBuzzTDD.csproj" />
+﻿<Properties StartupItem="FizzBuzzTDD/FizzBuzzTDD.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FizzBuzzTDD/Program.cs">
+    <Files>
+      <File FileName="FizzBuzzTDD/Test.cs" Line="14" Column="4" />
+      <File FileName="FizzBuzzTDD/Program.cs" Line="6" Column="2" NotebookId="1" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State name="__root__">
+          <Node name="FizzBuzzTDD" expanded="True">
+            <Node name="FizzBuzzTDD" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

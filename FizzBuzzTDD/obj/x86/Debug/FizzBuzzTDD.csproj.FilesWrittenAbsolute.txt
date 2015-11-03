@@ -3,3 +3,8 @@
 /Users/Sivan/Documents/Projects/FizzBuzzTDD/FizzBuzzTDD/bin/Debug/FizzBuzzTDD.exe
 /Users/Sivan/Documents/Projects/FizzBuzzTDD/FizzBuzzTDD/obj/x86/Debug/FizzBuzzTDD.exe
 /Users/Sivan/Documents/Projects/FizzBuzzTDD/FizzBuzzTDD/obj/x86/Debug/FizzBuzzTDD.exe.mdb
+/Users/Sivan/Documents/Projects/FizzBuzzTDD/FizzBuzzTDD/bin/Debug/nunit.framework.dll
+/Users/Sivan/Documents/Projects/FizzBuzzTDD/FizzBuzzTDD/bin/Debug/FizzBuzzTDD.dll.mdb
+/Users/Sivan/Documents/Projects/FizzBuzzTDD/FizzBuzzTDD/bin/Debug/FizzBuzzTDD.dll
+/Users/Sivan/Documents/Projects/FizzBuzzTDD/FizzBuzzTDD/obj/x86/Debug/FizzBuzzTDD.dll
+/Users/Sivan/Documents/Projects/FizzBuzzTDD/FizzBuzzTDD/obj/x86/Debug/FizzBuzzTDD.dll.mdb
